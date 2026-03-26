@@ -922,7 +922,7 @@
 	</p>
 
 	<p>
-		Say we want to find the coefficient of the <m>x^2y</m> therm.  We collect like terms, collecting all the terms in which we have chosen <m>x</m> two times (and <m>y</m> the other one time).  Alternatively, the <m>x^2y</m> term comes from all the strings with two <m>x</m> and one <m>y</m>, just like a bit string or lattice path.  No matter how you think of it, the result is that we have <m>\binom{3}{2} = 3</m> terms with the form <m>x^2y</m>.  
+		Say we want to find the coefficient of the <m>x^2y</m> term.  We collect like terms, collecting all the terms in which we have chosen <m>x</m> two times (and <m>y</m> the other one time).  Alternatively, the <m>x^2y</m> term comes from all the strings with two <m>x</m> and one <m>y</m>, just like a bit string or lattice path.  No matter how you think of it, the result is that we have <m>\binom{3}{2} = 3</m> terms with the form <m>x^2y</m>.  
 	</p>
 
 	<p>
